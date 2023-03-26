@@ -3,7 +3,7 @@
     "RepositoryDescription": "A collection of customizations ready to use with Misaka",
     "RepositoryAuthor": "roeegh",
     "RepositoryIcon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
-    "RepositoryWebsite": "https://github.com/roeegh/Puck",
+    "RepositoryWebsite": "https://puck.roeegh.dev",
     "DefaultHeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
     "RepositoryContents": [
         {
@@ -27,7 +27,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088638227390406686/Resplogo.misaka",
+                    "Package": "",
                     "Description": "Description"
                 }
             ],
