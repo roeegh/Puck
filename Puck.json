@@ -1,0 +1,37 @@
+{
+    "RepositoryName": "Puck",
+    "RepositoryDescription": "A collection of customizations ready to use with Misaka",
+    "RepositoryAuthor": "roeegh",
+    "RepositoryIcon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
+    "RepositoryWebsite": "https://github.com/roeegh/Puck",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
+    "RepositoryContents": [
+        {
+            "Name": "Test Package",
+            "Description": "Do not install this package",
+            "Author": {
+                "Label": "roeegh",
+                "Links": [
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/roeegh"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
+            "Category": "Category",
+            "Caption": "Caption",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088638227390406686/Resplogo.misaka",
+                    "Description": "Description"
+                }
+            ],
+            "PackageID": "dev.roeegh.Test"
+        }
+    ]
+}
