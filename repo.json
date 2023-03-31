@@ -32,6 +32,33 @@
                 }
             ],
             "PackageID": "dev.roeegh.Test"
+        },
+        {
+            "Name": "Mise",
+            "Description": "mise",
+            "Author": {
+                "Label": "roeegh",
+                "Links": [
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/roeegh"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/roeegh/Mise/raw/main/assets/logo.png",
+            "Category": "Category",
+            "Caption": "Caption",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088420396036005929/Mise_v1.0.misaka",
+                    "Description": "Description"
+                }
+            ],
+            "PackageID": "dev.roeegh.Mise"
         }
     ]
 }
