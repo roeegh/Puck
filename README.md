@@ -5,7 +5,7 @@
   
   <h3 align="center">Puck</h3>
   <p align="center">
-    A collection of customizations ready to use with Cowabunga, FileSwitcherPro and Misaka
+    A collection of customizations ready to use with Cowabunga and Misaka
   </p>
 </div>
 
@@ -17,17 +17,17 @@ All of my customizations are exported from my iPhone 13 Pro Max running iOS 16.0
 # Prerequisites
 
 1. Install Filza
-2. Install Cowabunga or FileSwitcherPro or Misaka
+2. Install Cowabunga or Misaka
 3. Create a folder named `Puck` in the `/var/mobile/Documents` directory
    <br></br>
 
 # How to use it?
 
-### Cowabunga & FileSwitcherPro
+### Cowabunga
 
 1. Download and unzip the `.zip` of the wanted customization(s) from the [releases](https://github.com/roeegh/Puck/releases/latest)
 2. Move the file from the `Replacement` folder into the `/var/mobile/Documents/Puck` folder
-3. Import the `.cowperation` if you are using Cowabunga or `.fsp` if you are using FileSwitcherPro
+3. Import the `.cowperation`
 
 ### Misaka
 
@@ -39,11 +39,12 @@ All of my customizations are exported from my iPhone 13 Pro Max running iOS 16.0
 
 # How to change the color?
 
-### Cowabunga & FileSwitcherPro
+### Cowabunga
 
 1. Navigate to `/var/mobile/Documents/Puck` using Filza
 2. Open the file for the customization you want to edit and find the `red`, `green`, `blue`, and `alpha` fields
 3. Take your wanted color value and divide it by 255 to get a decimal value, enter that value in its respective RGBA field
+4. Go back into Cowabunga and press the `Generate Padding` button for the customization
 
 _Notice: Values <ins>*must*</ins> be between 0 and 1_
 
@@ -120,7 +121,7 @@ Original File Paths:
 
 -   `/System/Library/PrivateFrameworks/SpringBoardHome.framework/SpringBoardHome.loctable`
 
-_Notice: This customization is only for iOS 16 and only available for Cowabunga. I do not know how to recreate this with FileSwitcherPro. If you know how to and would like to share, please reach out to me on Twitter._
+_Notice: This customization is only for iOS 16._
 
 <details><summary>Screenshots</summary>
 
