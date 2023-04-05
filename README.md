@@ -65,8 +65,6 @@ All of my customizations are exported from my iPhone 13 Pro Max running iOS 16.0
 
 # Customizations
 
-<img src="Notification%20Shadow/Images/Icon.png" alt="Logo" width="80" height="80">
-
 ### Notification Shadow
 
 Adds a colored shadow to Banners only and Bluetooth device pill
