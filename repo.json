@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "Notification Shadow",
-            "Description": "Spice up your notification banners, pill notifications and Siri results with a colored shadow.",
+            "Description": "Spice up your Siri, banners & pill notifications",
             "Category": "Notifications",
             "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "MinIOSVersion": "15.0",
