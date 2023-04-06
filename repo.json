@@ -30,8 +30,13 @@
             ],
             "Releases": [
                 {
+                    "Version": "1.1",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Notification%20Shadow/Misaka/Notification%20Shadow_1.1.misaka",
+                    "Description": "Fixed crashing when switching to dark mode"
+                },
+                {
                     "Version": "1.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Notification%20Shadow/Misaka/Notification%20Shadow.misaka",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Notification%20Shadow/Misaka/Notification%20Shadow_1.0.misaka",
                     "Description": "Initial Release"
                 }
             ],
