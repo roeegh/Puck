@@ -67,7 +67,7 @@ All of my customizations are exported from my iPhone 13 Pro Max running iOS 16.0
 
 ### Notification Shadow
 
-Adds a colored shadow to Banners only and Bluetooth device pill
+Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)
 
 Original File Paths:
 
@@ -76,8 +76,6 @@ Original File Paths:
 -   Dark Mode: `/System/Library/PrivateFrameworks/PlatterKit.framework/platterVibrantShadowDark.visualstyleset`
 
 Values:
-
-Calculated by taking the RGB values, from the 0 to 255 scale, and dividing them by 255
 
 -   red
     -   min: 0
@@ -92,9 +90,11 @@ Calculated by taking the RGB values, from the 0 to 255 scale, and dividing them 
     -   min: 0
     -   max: 1
 
+_Note: Values are calculated by taking the RGB values, from the 0 to 255 scale, and dividing them by 255_
+
 <details><summary>Screenshots</summary>
 
-|                                               |                                             |                                             |
+|                    Banner                     |                    Pill                     | Siri                                        |
 | :-------------------------------------------: | :-----------------------------------------: | ------------------------------------------- |
 | ![](/Notification%20Shadow/Images/Banner.png) | ![](</Notification Shadow/Images/Pill.png>) | ![](</Notification Shadow/Images/Siri.png>) |
 
