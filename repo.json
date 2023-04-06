@@ -7,8 +7,8 @@
     "DefaultHeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
     "RepositoryContents": [
         {
-            "Name": "Test Package",
-            "Description": "Do not install this package",
+            "Name": "Notification Shadow",
+            "Description": "Spice up your notification banners, pill notifications and Siri results with a colored shadow.",
             "Author": {
                 "Label": "roeegh",
                 "Links": [
@@ -18,20 +18,22 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
-            "Category": "Category",
-            "Caption": "Caption",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Icon.png",
+            "Category": "Notifications",
+            "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "Screenshot": [
-                "https://i.imgur.com/lmQszpZ.png"
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Banner.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Pill.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Siri.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "",
-                    "Description": "Description"
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Notification%20Shadow/Misaka/Notification%20Shadow.misaka",
+                    "Description": "Initial Release"
                 }
             ],
-            "PackageID": "dev.roeegh.Test"
+            "PackageID": "dev.roeegh.NotificationShadow"
         }
     ]
 }
