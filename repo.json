@@ -9,6 +9,10 @@
         {
             "Name": "Notification Shadow",
             "Description": "Spice up your notification banners, pill notifications and Siri results with a colored shadow.",
+            "Category": "Notifications",
+            "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "roeegh",
                 "Links": [
@@ -19,8 +23,6 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Icon.png",
-            "Category": "Notifications",
-            "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Banner.png",
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Pill.png",
