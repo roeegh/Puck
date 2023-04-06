@@ -43,9 +43,9 @@ Original File Paths:
 
 <details><summary>Screenshots</summary>
 
-|                        Banner                        |                        Pill                        | Siri                                               |
-| :--------------------------------------------------: | :------------------------------------------------: | -------------------------------------------------- |
-| ![](/Tweaks/Notification%20Shadow/Images/Banner.png) | ![](</Tweaks/Notification Shadow/Images/Pill.png>) | ![](</Tweaks/Notification Shadow/Images/Siri.png>) |
+|                        Banner (Light)                        |                      Banner (Dark)                      | Pill (Light)                                           | Pill (Dark)                                               | Siri                                               |
+| :----------------------------------------------------------: | :-----------------------------------------------------: | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------- |
+| ![](/Tweaks/Notification%20Shadow/Images/Light%20Banner.png) | ![](/Tweaks/Notification Shadow/Images/Dark Banner.png) | ![](/Tweaks/Notification Shadow/Images/Light Pill.png) | ![](/Tweaks/Notification%20Shadow/Images/Dark%20Pill.png) | ![](/Tweaks/Notification%20Shadow/Images/Siri.png) |
 
 </details>
 
