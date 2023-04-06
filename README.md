@@ -94,10 +94,9 @@ Calculated by taking the RGB values, from the 0 to 255 scale, and dividing them 
 
 <details><summary>Screenshots</summary>
 
-|                                Light Mode                                 |                                Dark Mode                                 |
-| :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| ![](</Notification Shadow/Images/Notification Shadow Banner (Light).png>) | ![](</Notification Shadow/Images/Notification Shadow Banner (Dark).png>) |
-|  ![](</Notification Shadow/Images/Notification Shadow Pill (Light).png>)  |  ![](</Notification Shadow/Images/Notification Shadow Pill (Dark).png>)  |
+|                                               |                                             |                                             |
+| :-------------------------------------------: | :-----------------------------------------: | ------------------------------------------- |
+| ![](/Notification%20Shadow/Images/Banner.png) | ![](</Notification Shadow/Images/Pill.png>) | ![](</Notification Shadow/Images/Siri.png>) |
 
 </details>
 
