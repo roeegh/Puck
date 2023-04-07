@@ -24,10 +24,8 @@
             },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Notification%20Shadow/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Light%20Banner.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Dark%20Banner.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Light%20Pill.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Dark%20Pill.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Banner.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Pill.png",
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Siri.png"
             ],
             "Releases": [
@@ -38,6 +36,37 @@
                 }
             ],
             "PackageID": "dev.roeegh.NotificationShadow"
+        },
+        {
+            "Name": "Notification Color",
+            "Description": "Spice up notifications and battery widget",
+            "Category": "Notifications",
+            "Caption": "Change the color of your notifications and battery widget",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "roeegh",
+                "Links": [
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/roeegh"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Notification%20Center.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Notification%20Banner.png",
+                "https://github.com/roeegh/Puck/blob/main/Tweaks/Notification%20Color/Images/Battery%20Widget.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Color/Notification%20Color.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.NotificationColor"
         }
     ]
 }
