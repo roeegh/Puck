@@ -67,6 +67,37 @@
                 }
             ],
             "PackageID": "dev.roeegh.NotificationColor"
+        },
+        {
+            "Name": "Notification Text",
+            "Description": "Spice up notifications and battery widget text",
+            "Category": "Notifications",
+            "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "roeegh",
+                "Links": [
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/roeegh"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Notification%20Center.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Notification%20Banner.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Battery%20Widget.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.NotificationText"
         }
     ]
 }
