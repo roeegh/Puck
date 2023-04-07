@@ -93,7 +93,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Text/Notification%20Text.misaka",
                     "Description": "🌸 Initial Release"
                 }
             ],
