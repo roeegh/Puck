@@ -49,6 +49,24 @@ Original File Paths:
 
 </details>
 
+### Notification Color
+
+Change the color of your notifications and battery widget
+
+Original File Paths:
+
+-   Light Mode: `/System/Library/PrivateFrameworks/CoreMaterial.framework/platters.materialrecipe`
+
+-   Dark Mode: `/System/Library/PrivateFrameworks/CoreMaterial.framework/plattersDark.materialrecipe`
+
+<details><summary>Screenshots</summary>
+
+|                        Notification Center (Light)                         |                        Notification Center (Dark)                         | Notification Banner (Light)                                                | Notification Banner (Dark)                                                | Battery Widget (Light)                                                | Battery Widget (Dark)                                                |
+| :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![](/Tweaks/Notification%20Color/Images/Light%20Notification%20Center.png) | ![](/Tweaks/Notification%20Color/Images/Dark%20Notification%20Center.png) | ![](/Tweaks/Notification%20Color/Images/Light%20Notification%20Banner.png) | ![](/Tweaks/Notification%20Color/Images/Dark%20Notification%20Banner.png) | ![](/Tweaks/Notification%20Color/Images/Light%20Battery%20Widget.png) | ![](/Tweaks/Notification%20Color/Images/Dark%20Battery%20Widget.png) |
+
+</details>
+
 # Acknowledgments
 
 -   Icon & Banner by [taki](https://twitter.com/74k1_)
