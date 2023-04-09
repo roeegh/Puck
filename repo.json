@@ -61,9 +61,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "2.0",
                     "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Color/Notification%20Color.misaka",
-                    "Description": "🌸 Initial Release"
+                    "Description": "🌸 Added Blur option"
                 }
             ],
             "PackageID": "dev.roeegh.NotificationColor"
