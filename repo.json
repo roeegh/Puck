@@ -98,6 +98,37 @@
                 }
             ],
             "PackageID": "dev.roeegh.NotificationText"
+        },
+        {
+            "Name": "Genshin CC",
+            "Description": "Spice up notifications and battery widget text",
+            "Category": "Control Center",
+            "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "roeegh",
+                "Links": [
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/roeegh"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/All%20Off.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Normal%20View.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Small%20Module.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "2.1",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/GenshinCC/GenshinCC.misaka",
+                    "Description": "🌸 Fixed bug when WiFi & Bluetooth are off"
+                }
+            ],
+            "PackageID": "dev.roeegh.GenshinCC"
         }
     ]
 }
