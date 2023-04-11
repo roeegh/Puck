@@ -39,7 +39,7 @@
         },
         {
             "Name": "Notification Color",
-            "Description": "Spice up notifications and battery widget",
+            "Description": "Spice up your notifications and battery widget",
             "Category": "Notifications",
             "Caption": "Change the color of your notifications and battery widget",
             "MinIOSVersion": "15.0",
@@ -70,7 +70,7 @@
         },
         {
             "Name": "Notification Text",
-            "Description": "Spice up notifications and battery widget text",
+            "Description": "Spice up your notifications and battery widget text",
             "Category": "Notifications",
             "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
             "MinIOSVersion": "15.0",
@@ -101,9 +101,9 @@
         },
         {
             "Name": "Genshin CC",
-            "Description": "Spice up notifications and battery widget text",
+            "Description": "Spice up connectivity module in Control Center",
             "Category": "Control Center",
-            "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
+            "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
