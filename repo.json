@@ -4,7 +4,19 @@
     "RepositoryAuthor": "roeegh",
     "RepositoryIcon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
     "RepositoryWebsite": "https://puck.roeegh.dev",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
+    "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
+        "Author": {
+            "Label": "roeegh",
+            "Links": [
+                {
+                    "Label": "Twitter",
+                    "Link": "https://twitter.com/roeegh"
+                }
+            ]
+        },
+        "ViewCount": true
+    },
     "RepositoryContents": [
         {
             "Name": "Notification Shadow",
@@ -13,15 +25,6 @@
             "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "roeegh",
-                "Links": [
-                    {
-                        "Label": "Twitter",
-                        "Link": "https://twitter.com/roeegh"
-                    }
-                ]
-            },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Banner.png",
@@ -44,15 +47,6 @@
             "Caption": "Change the color of your notifications and battery widget",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "roeegh",
-                "Links": [
-                    {
-                        "Label": "Twitter",
-                        "Link": "https://twitter.com/roeegh"
-                    }
-                ]
-            },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Notification%20Center.png",
@@ -75,15 +69,6 @@
             "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "roeegh",
-                "Links": [
-                    {
-                        "Label": "Twitter",
-                        "Link": "https://twitter.com/roeegh"
-                    }
-                ]
-            },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Notification%20Center.png",
@@ -106,15 +91,6 @@
             "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact. Original by Straight_Tamago <3\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "roeegh",
-                "Links": [
-                    {
-                        "Label": "Twitter",
-                        "Link": "https://twitter.com/roeegh"
-                    }
-                ]
-            },
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/All%20Off.PNG",
