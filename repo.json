@@ -85,7 +85,7 @@
             "PackageID": "dev.roeegh.NotificationText"
         },
         {
-            "Name": "Genshin CC",
+            "Name": "GenshinCC",
             "Description": "Spice up connectivity module in Control Center",
             "Category": "Control Center",
             "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact. Original by Straight_Tamago <3\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
@@ -105,6 +105,28 @@
                 }
             ],
             "PackageID": "dev.roeegh.GenshinCC"
+        },
+        {
+            "Name": "Vanished",
+            "Description": "Clean up your Control Center",
+            "Category": "Control Center",
+            "Caption": "Hides the brightness and volume icon on the sliders for a cleaner look\n\nNotice: This will conflict with other Control Center icon theming tweaks",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Control%20Center.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Brightness%20Full.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Volume%20Full.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Vanished/Vanished.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.Vanished"
         }
     ]
 }
