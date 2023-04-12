@@ -103,7 +103,7 @@
             "Name": "Genshin CC",
             "Description": "Spice up connectivity module in Control Center",
             "Category": "Control Center",
-            "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
+            "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact. Original by Straight_Tamago <3\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -123,9 +123,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "2.1",
+                    "Version": "2.2",
                     "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/GenshinCC/GenshinCC.misaka",
-                    "Description": "🌸 Fixed bug when WiFi & Bluetooth are off"
+                    "Description": "🌸 Fixed bug where Wifi list would have enlarged icons"
                 }
             ],
             "PackageID": "dev.roeegh.GenshinCC"
