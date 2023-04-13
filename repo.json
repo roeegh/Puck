@@ -77,9 +77,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Text/Notification%20Text.misaka",
-                    "Description": "🌸 Initial Release"
+                    "Description": "🌸 Fixed dark mode not working"
                 }
             ],
             "PackageID": "dev.roeegh.NotificationText"
