@@ -27,7 +27,6 @@ https://puck.roeegh.dev/repo.json
 1. Navigate to the `Packages` tab in Misaka
 2. Select `Tweak Settings` by pressing and holding on the tweak you want to edit
 3. Change the values to your preference
-   <br></br>
 
 # Acknowledgments
 
