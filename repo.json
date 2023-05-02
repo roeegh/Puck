@@ -170,7 +170,7 @@
             "Name": "Wifi Speed",
             "Description": "Show the WiFI speed in the control center",
             "Category": "Control Center",
-            "Caption": "Shows you the WiFI speed in the status bar in the control center in RSSI format\n\nNotice: This tweak will persist through reboot if you leave it enabled",
+            "Caption": "Enables the RSSI in the Control Center\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Wifi%20Speed/Images/Icon.png",
