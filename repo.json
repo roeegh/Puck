@@ -127,6 +127,26 @@
                 }
             ],
             "PackageID": "dev.roeegh.Vanished"
+        },
+        {
+            "Name": "Unsearchable",
+            "Description": "Bring back the page dots on the homescreen",
+            "Category": "Springboard",
+            "Caption": "Removes the search button and brings back the page dots on ios 16\n\nNotice: This tweak will persist through reboot if you leave it enabled",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Unsearchable/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Unsearchable/Images/Home%20Screen.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Unsearchable/Unsearchable.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.Vanished"
         }
     ]
 }
