@@ -146,7 +146,45 @@
                     "Description": "🌸 Initial Release"
                 }
             ],
-            "PackageID": "dev.roeegh.Vanished"
+            "PackageID": "dev.roeegh.Unsearchable"
+        },
+        {
+            "Name": "High Power",
+            "Description": "Disable Low Battery Alerts",
+            "Category": "Springboard",
+            "Caption": "Disables the Low Battery Alerts\n\nNotice: This tweak will persist through reboot if you leave it enabled",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/High%20Power/Images/Icon.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/High%20Power/High%20Power.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.HighPower"
+        },
+        {
+            "Name": "Wifi Speed",
+            "Description": "Show the WiFI speed in the control center",
+            "Category": "Control Center",
+            "Caption": "Shows you the WiFI speed in the status bar in the control center in RSSI format\n\nNotice: This tweak will persist through reboot if you leave it enabled",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Wifi%20Speed/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Wifi%20Speed/Images/Control%20Center.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Wifi%20Speed/Wifi%20Speed.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.WifiSpeed"
         }
     ]
 }
