@@ -185,6 +185,28 @@
                 }
             ],
             "PackageID": "dev.roeegh.WifiSpeed"
+        },
+        {
+            "Name": "Better Focus",
+            "Description": "A cleaner Focus module",
+            "Category": "Control Center",
+            "Caption": "Change the Focus module to 1 width and hide the name of all pre-built focus modes.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20On.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20Off.png",
+                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20List.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Better%20Focus/Better%20Focus.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.BetterFocus"
         }
     ]
 }
