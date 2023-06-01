@@ -21,7 +21,7 @@
         {
             "Name": "Notification Shadow",
             "Description": "Spice up your Siri, banners & pill notifications",
-            "Category": "Notifications",
+            "Category": "Notification",
             "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -43,7 +43,7 @@
         {
             "Name": "Notification Color",
             "Description": "Spice up your notifications and battery widget",
-            "Category": "Notifications",
+            "Category": "Notification",
             "Caption": "Change the color of your notifications and battery widget",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -65,7 +65,7 @@
         {
             "Name": "Notification Text",
             "Description": "Spice up your notifications and battery widget text",
-            "Category": "Notifications",
+            "Category": "Notification",
             "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
