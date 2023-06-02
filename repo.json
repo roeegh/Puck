@@ -201,9 +201,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Better%20Focus/Better%20Focus.misaka",
-                    "Description": "🌸 Initial Release"
+                    "Description": "🌸 Fix for iOS 15"
                 }
             ],
             "PackageID": "dev.roeegh.BetterFocus"
