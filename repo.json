@@ -225,6 +225,24 @@
                 }
             ],
             "PackageID": "dev.roeegh.Conference"
+        },
+        {
+            "Name": "Yesterday's View",
+            "Description": "Removes Today's View from the lockscreen and Notification Center",
+            "Category": "Lockscreen",
+            "Caption": "Removes Today's View from the lockscreen and Notification Center. It is still accessible on your Home Screen.\n\nNotice: This tweak will persist through reboot if you leave it enabled",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://puck.roeegh.com/Tweaks/Yesterday's%20View/Images/Icon.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://puck.roeegh.com/Tweaks/Yesterday's%20View/Yesterday's%20View.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.YesterdaysView"
         }
     ]
 }
