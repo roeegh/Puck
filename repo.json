@@ -207,6 +207,24 @@
                 }
             ],
             "PackageID": "dev.roeegh.BetterFocus"
+        },
+        {
+            "Name": "Conference",
+            "Description": "Who even uses these modules?",
+            "Category": "Control Center",
+            "Caption": "Removes the Audio and Video conference modules from the control center",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://puck.roeegh.com/Tweaks/Conference/Images/Icon.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://puck.roeegh.com/Tweaks/Conference/Conference.misaka",
+                    "Description": "🌸 Initial Release"
+                }
+            ],
+            "PackageID": "dev.roeegh.Conference"
         }
     ]
 }
