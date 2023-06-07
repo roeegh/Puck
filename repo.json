@@ -2,10 +2,10 @@
     "RepositoryName": "Puck",
     "RepositoryDescription": "by roeegh",
     "RepositoryAuthor": "roeegh",
-    "RepositoryIcon": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Icon.png",
+    "RepositoryIcon": "https://puck.roeegh.com/assets/Icon.png",
     "RepositoryWebsite": "https://puck.roeegh.dev",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/roeegh/Puck/main/assets/Banner.png",
+        "HeaderImage": "https://puck.roeegh.com/assets/Banner.png",
         "Author": {
             "Label": "roeegh",
             "Links": [
@@ -25,16 +25,16 @@
             "Caption": "Adds a colored shadow to notification banners, pill notifications and Siri results (dark mode only)",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Notification%20Shadow/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Banner.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Pill.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Shadow/Images/Siri.png"
+                "https://puck.roeegh.com/Tweaks/Notification%20Shadow/Images/Banner.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Shadow/Images/Pill.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Shadow/Images/Siri.png"
             ],
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Shadow/Notification%20Shadow.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Notification%20Shadow/Notification%20Shadow.misaka",
                     "Description": "Fixed crashing when switching to dark mode"
                 }
             ],
@@ -47,16 +47,16 @@
             "Caption": "Change the color of your notifications and battery widget",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Notification%20Color/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Notification%20Center.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Notification%20Banner.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Color/Images/Battery%20Widget.png"
+                "https://puck.roeegh.com/Tweaks/Notification%20Color/Images/Notification%20Center.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Color/Images/Notification%20Banner.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Color/Images/Battery%20Widget.png"
             ],
             "Releases": [
                 {
                     "Version": "2.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Color/Notification%20Color.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Notification%20Color/Notification%20Color.misaka",
                     "Description": "🌸 Added Blur option"
                 }
             ],
@@ -69,16 +69,16 @@
             "Caption": "Change the color of your notifications and battery widget text\n\nTip: You can hide the time on the notifications by changing alpha value for the Secondary color to 0",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Notification%20Text/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Notification%20Center.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Notification%20Banner.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Notification%20Text/Images/Battery%20Widget.png"
+                "https://puck.roeegh.com/Tweaks/Notification%20Text/Images/Notification%20Center.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Text/Images/Notification%20Banner.png",
+                "https://puck.roeegh.com/Tweaks/Notification%20Text/Images/Battery%20Widget.png"
             ],
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Notification%20Text/Notification%20Text.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Notification%20Text/Notification%20Text.misaka",
                     "Description": "🌸 Fixed dark mode not working"
                 }
             ],
@@ -91,16 +91,16 @@
             "Caption": "Change the icons in the connectivity module to elements icons from Genshin Impact. Original by Straight_Tamago <3\n\nNotice: This will also hide the white background of enabled modules in the entire Control Center",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/GenshinCC/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/All%20Off.PNG",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Normal%20View.PNG",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/GenshinCC/Images/Small%20Module.PNG"
+                "https://puck.roeegh.com/Tweaks/GenshinCC/Images/All%20Off.PNG",
+                "https://puck.roeegh.com/Tweaks/GenshinCC/Images/Normal%20View.PNG",
+                "https://puck.roeegh.com/Tweaks/GenshinCC/Images/Small%20Module.PNG"
             ],
             "Releases": [
                 {
                     "Version": "2.2",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/GenshinCC/GenshinCC.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/GenshinCC/GenshinCC.misaka",
                     "Description": "🌸 Fixed bug where Wifi list would have enlarged icons"
                 }
             ],
@@ -113,16 +113,16 @@
             "Caption": "Hides the brightness and volume icon on the sliders for a cleaner look\n\nNotice: This will conflict with other Control Center icon theming tweaks",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Vanished/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Control%20Center.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Brightness%20Full.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Vanished/Images/Volume%20Full.png"
+                "https://puck.roeegh.com/Tweaks/Vanished/Images/Control%20Center.png",
+                "https://puck.roeegh.com/Tweaks/Vanished/Images/Brightness%20Full.png",
+                "https://puck.roeegh.com/Tweaks/Vanished/Images/Volume%20Full.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Vanished/Vanished.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Vanished/Vanished.misaka",
                     "Description": "🌸 Initial Release"
                 }
             ],
@@ -135,14 +135,14 @@
             "Caption": "Removes the search button and brings back the page dots on ios 16\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Unsearchable/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Unsearchable/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Unsearchable/Images/Home%20Screen.png"
+                "https://puck.roeegh.com/Tweaks/Unsearchable/Images/Home%20Screen.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Unsearchable/Unsearchable.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Unsearchable/Unsearchable.misaka",
                     "Description": "🌸 Initial Release"
                 }
             ],
@@ -155,12 +155,12 @@
             "Caption": "Disables the Low Battery Alerts\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/High%20Power/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/High%20Power/Images/Icon.png",
             "Screenshot": [],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/High%20Power/High%20Power.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/High%20Power/High%20Power.misaka",
                     "Description": "🌸 Initial Release"
                 }
             ],
@@ -173,14 +173,14 @@
             "Caption": "Enables the RSSI in the Control Center\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Wifi%20Speed/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Wifi%20Speed/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Wifi%20Speed/Images/Control%20Center.png"
+                "https://puck.roeegh.com/Tweaks/Wifi%20Speed/Images/Control%20Center.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Wifi%20Speed/Wifi%20Speed.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Wifi%20Speed/Wifi%20Speed.misaka",
                     "Description": "🌸 Initial Release"
                 }
             ],
@@ -193,16 +193,16 @@
             "Caption": "Change the Focus module to 1 width and hide the name of all pre-built focus modes.",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Icon.png",
+            "Icon": "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20On.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20Off.png",
-                "https://raw.githubusercontent.com/roeegh/Puck/main/Tweaks/Better%20Focus/Images/Focus%20List.png"
+                "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20On.png",
+                "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20Off.png",
+                "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20List.png"
             ],
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/roeegh/Puck/raw/main/Tweaks/Better%20Focus/Better%20Focus.misaka",
+                    "Package": "https://puck.roeegh.com/Tweaks/Better%20Focus/Better%20Focus.misaka",
                     "Description": "🌸 Fix for iOS 15"
                 }
             ],
