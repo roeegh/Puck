@@ -131,7 +131,7 @@
         {
             "Name": "Unsearchable",
             "Description": "Bring back the page dots on the homescreen",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "Removes the search button and brings back the page dots on ios 16\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
@@ -151,7 +151,7 @@
         {
             "Name": "High Power",
             "Description": "Disable Low Battery Alerts",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "Disables the Low Battery Alerts\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -229,7 +229,7 @@
         {
             "Name": "Yesterday's View",
             "Description": "Removes Today's View from the lockscreen and Notification Center",
-            "Category": "Lockscreen",
+            "Category": "Lock Screen",
             "Caption": "Removes Today's View from the lockscreen and Notification Center. It is still accessible on your Home Screen.\n\nNotice: This tweak will persist through reboot if you leave it enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
